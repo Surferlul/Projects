@@ -1,0 +1,22 @@
+---
+layout: single
+title: My Themes
+permalink: /Themes
+---
+
+# IDE
+
+## IDEA
+
+ - ### [Blackberry](https://github.com/Surferlul/IDEA_Blackberry)
+
+## VS Code
+
+ - ### [Strawberry](https://github.com/Surferlul/VS_Code_Strawberry)
+
+# Window Managers
+
+## AwesomeWM
+
+ - ### [Main Configs](https://github.com/Surferlul/awesome)
+ - ### [Blueish](https://github.com/Surferlul/blueish)
