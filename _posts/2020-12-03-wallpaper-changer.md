@@ -2,6 +2,8 @@
 title: Reddit Wallpaper Changer for Windows
 ---
 
+### [View on Github](https://github.com/Surferlul/Wallpaper-Changer)
+
 # Downloads
 
 - [Compiled](https://github.com/Surferlul/Wallpaper-Changer/archive/main.zip)

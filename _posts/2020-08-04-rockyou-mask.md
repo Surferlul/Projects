@@ -2,6 +2,8 @@
 title: Rockyou Mask Attack
 ---
 
+### [View on Github](https://github.com/Surferlul/RockyouMask)
+
 A Mask-Attack using hashcat based on the rockyou leak
 
 I am not developing this project anymore. The code is not complex so don't be afraid to take a peek and modify it yourself. If you want to know how I generated the maks feel free to [contact me](https://surferlul.github.io) and I may be able to remember how I did it.
