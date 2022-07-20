@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Rockyou Mask Attack
 ---
 

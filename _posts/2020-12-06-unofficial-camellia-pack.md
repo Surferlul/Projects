@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Unofficial Camellia Pack for Beatsaber
 ---
 

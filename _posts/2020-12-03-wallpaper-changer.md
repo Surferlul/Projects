@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Reddit Wallpaper Changer for Windows
 ---
 
