@@ -3,9 +3,9 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Blog"
-    url: /
+    url: https://surferlul.github.io/
   - title: "Posts"
-    url: /posts
+    url: https://surferlul.github.io/posts
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
