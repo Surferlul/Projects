@@ -1,12 +1,9 @@
 ---
-layout: home
+layout: posts
 author_profile: true
+permalink: /posts
 ---
 
-
-- ### [Themes](Themes)
-- ### [Beatsaber Unofficial Camellia Pack](Unofficial-Camellia-Pack)
-- ### [Windows Wallpaper Changer](Wallpaper-Changer)
 - ### [Rockyou Mask Attack](https://surferlul.github.io/RockyouMask)
 - ### [Computer Science Circles Python Course Solutions](https://surferlul.github.io/csc-python-solutions/)
 - ### [Type Trainer](https://surferlul.github.io/Type-Trainer/)

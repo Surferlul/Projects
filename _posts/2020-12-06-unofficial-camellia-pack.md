@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Unofficial Camellia Pack for Beatsaber
-permalink: /Unofficial-Camellia-Pack
 ---
 
 # Downloads
