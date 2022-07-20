@@ -2,8 +2,6 @@
 title: Unofficial Camellia Pack for Beatsaber
 ---
 
-### [View on Github](https://github.com/Surferlul/Unofficial-Camellia-Pack)
-
 # Downloads
 
 ## Current Version:
@@ -26,4 +24,6 @@ title: Unofficial Camellia Pack for Beatsaber
 - <a 
     href="files/Unofficial Camellia Pack v1.0.bplist" 
     download>Unofficial Cammelia Pack v1.0</a>
+
+### [View on Github](https://github.com/Surferlul/Unofficial-Camellia-Pack)
 

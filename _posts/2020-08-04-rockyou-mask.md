@@ -2,8 +2,6 @@
 title: Rockyou Mask Attack
 ---
 
-### [View on Github](https://github.com/Surferlul/RockyouMask)
-
 A Mask-Attack using hashcat based on the rockyou leak
 
 I am not developing this project anymore. The code is not complex so don't be afraid to take a peek and modify it yourself. If you want to know how I generated the maks feel free to [contact me](https://surferlul.github.io) and I may be able to remember how I did it.
@@ -36,4 +34,6 @@ On Linux put your hashes in a text file where you excecute the script
 
 
 Running a Radeon RX 570 this script can brute-force 70% of passwords in rockyou in about half a day, 60% in about half an hour
+
+### [View on Github](https://github.com/Surferlul/RockyouMask)
 

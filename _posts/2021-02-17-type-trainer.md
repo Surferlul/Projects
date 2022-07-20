@@ -2,8 +2,6 @@
 title: Type Trainer
 ---
 
-### [View on Github](https://github.com/Surferlul/Type-Trainer)
-
 You need Python 3 to run these programs
 
 If the text is flashing please open an issue, i used the flashing formated text because it didn't flash in my terminal and had a nice color
@@ -40,3 +38,6 @@ For english word lists see https://github.com/first20hours/google-10000-english<
 I got the German wordlist from [here](http://www1.udel.edu/LLL/language/deutsch/top10000.pdf). To prepare it I'd reccomend to take 10224 as the sort parameter
 
 ## <a href="https://github.com/Surferlul/Type-Trainer/releases/download/1.1/Type_Trainer.zip">Download</a>
+
+### [View on Github](https://github.com/Surferlul/Type-Trainer)
+
