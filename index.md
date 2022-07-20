@@ -1,7 +1,6 @@
 ---
 layout: posts
 author_profile: true
-permalink: /posts
 ---
 
 - ### [Rockyou Mask Attack](https://surferlul.github.io/RockyouMask)
