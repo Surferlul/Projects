@@ -6,6 +6,8 @@ main:
     url: https://surferlul.github.io/
   - title: "Posts"
     url: https://surferlul.github.io/posts
+  - title: "View on Github"
+    url: https://github.com/Surferlul/Surferlul.github.io/Projects
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
