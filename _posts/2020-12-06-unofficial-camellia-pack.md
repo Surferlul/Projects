@@ -7,7 +7,7 @@ title: Unofficial Camellia Pack for Beatsaber
 ## Current Version:
 
 - <a
-  href="files/Unofficial Camellia Pack.bplist" 
+  href="https://raw.githubusercontent.com/Surferlul/Unofficial-Camellia-Pack/main/Unofficial%20Camellia%20Pack.bplist" 
   download="Unofficial Camellia Pack.bplist">BPLIST (for BMBF)</a>
 - <a
   href="https://github.com/Surferlul/Unofficial-Camellia-Pack/archive/levels.zip"
