@@ -1,5 +1,5 @@
 ---
-title: "GitHub Action - logseq-publish-theme-tenset"
+title: "GitHub Action: logseq-publish-theme-tenset"
 ---
 
 A postprocessor for logseq-spa. Applies logseq-tenset-theme to published site

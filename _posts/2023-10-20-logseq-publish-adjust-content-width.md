@@ -1,5 +1,5 @@
 ---
-title: GitHub Action - logseq-excalidraw-to-svg
+title: "GitHub Action: logseq-excalidraw-to-svg"
 ---
 
 A postprocessor for logseq-spa. Adjusts the width of the website content
